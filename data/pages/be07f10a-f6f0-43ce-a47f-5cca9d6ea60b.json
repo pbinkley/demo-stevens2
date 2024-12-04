@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a demo page."
+        }
+      ]
+    }
+  ],
+  "title": "Demo page",
+  "parent": "51157da4-3d3c-49fc-99db-bf9ed09a0570",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "demo-page",
+  "created_at": "2024-12-04T16:20:04.650Z",
+  "created_by": "pbinkley",
+  "updated_at": "2024-12-04T16:20:04.650Z",
+  "updated_by": "pbinkley"
+}
